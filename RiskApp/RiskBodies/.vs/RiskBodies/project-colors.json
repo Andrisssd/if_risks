@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "605d3f40-1ab5-4cf7-a4fb-2d95dbd76f0e": {
+      "ProjectGuid": "605d3f40-1ab5-4cf7-a4fb-2d95dbd76f0e",
+      "DisplayName": "Risks",
+      "ColorIndex": 0
+    },
+    "094f7939-47ea-42ee-bfc3-06b57a412328": {
+      "ProjectGuid": "094f7939-47ea-42ee-bfc3-06b57a412328",
+      "DisplayName": "Risks.Tests",
+      "ColorIndex": 1
+    },
+    "3cb30ec8-5999-414a-b828-96bac3905b1e": {
+      "ProjectGuid": "3cb30ec8-5999-414a-b828-96bac3905b1e",
+      "DisplayName": "RisksTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

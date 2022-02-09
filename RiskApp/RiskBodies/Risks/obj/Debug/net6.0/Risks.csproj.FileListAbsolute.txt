@@ -1,0 +1,12 @@
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\bin\Debug\net6.0\Risks.deps.json
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\bin\Debug\net6.0\Risks.dll
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\bin\Debug\net6.0\ref\Risks.dll
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\bin\Debug\net6.0\Risks.pdb
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\obj\Debug\net6.0\Risks.csproj.AssemblyReference.cache
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\obj\Debug\net6.0\Risks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\obj\Debug\net6.0\Risks.AssemblyInfoInputs.cache
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\obj\Debug\net6.0\Risks.AssemblyInfo.cs
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\obj\Debug\net6.0\Risks.csproj.CoreCompileInputs.cache
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\obj\Debug\net6.0\Risks.dll
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\obj\Debug\net6.0\ref\Risks.dll
+C:\Users\Andri\Desktop\c-sharp-syllabus-Homework\c-sharp-syllabus-main\csharp-basics\exercises\RiskApp\RiskBodies\Risks\obj\Debug\net6.0\Risks.pdb
